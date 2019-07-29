@@ -1,5 +1,6 @@
 # The-Cake-Heist
 
+## Part 1 : 
 You are a renowned thief who has recently switched from stealing precious metals to stealing cakes because of the insane profit margins. You end up hitting the jackpot, breaking into the world's largest privately owned stock of cakes—the vault of the Queen of England.
 
 While Queen Elizabeth has a limited number of types of cake, she has an unlimited supply of each type.
@@ -47,5 +48,13 @@ int capacity = 20;
 maxDuffelBagValue(cakeTypes, capacity);
 // returns 555 (6 of the middle type of cake and 1 of the last type of cake)
 ```
- 
+
 Weights and values may be any non-negative integer. Yes, it's weird to think about cakes that weigh nothing or duffel bags that can't hold anything. But we're not just super mastermind criminals—we're also meticulous about keeping our algorithms flexible and comprehensive.
+
+## Part 2 : if you're up for it ! 
+
+Are you a [boasty](https://www.youtube.com/watch?v=huaE85-V8u4) thief ? 
+
+Expose your findings to the world through a RESTful API !
+
+For instance you could send your CakeTypes through a HTTP POST method and retrieve your DuffelBag with a GET request.
